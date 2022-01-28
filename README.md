@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rhys-Stedman
 - 👀 I’m interested in Software
-- 🌱 I’m currently learning PHP, Java
+- 🌱 I’m currently learning C#, Solidity, Angular, SQL 
 - 💞️ I’m looking to collaborate on anything that I can learn on
 - 📫 How to reach me via my upcoming website portfolio
