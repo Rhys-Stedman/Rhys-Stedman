@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rhys-Stedman
 - 👀 I'm a Software Engineer
-- 🌱 C#, Node.Js, Angular, HTML+CSS, SQL
+- 🌱 C#, Node.Js, Angular, HTML+CSS, SQL, React, Figma, Docker, Javascript, Scss.
